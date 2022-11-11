@@ -8,9 +8,9 @@ author_profile: true
 ## Preprints
   
 ## Conference Proceedings
-- Nonsmooth Composite Nonconvex-Concave Minimax Optimization [[arxiv]](https://arxiv.org/abs/2209.10825) <br>
-   **Jiajin Li**, Linglingzhi Zhu, Anthony Man-Cho So. <br>
-  NeurIPS 2022 Workshop on Optimization for Machine Learning (**OPT 2022**).
+- Bounded Implicit Variational Inference <br>
+   Anshuk Uppal, Wouter Boomsma, Jes Frellsen. <br>
+  ICML 2022, Workshop on Distribution Free Uncertainty Quantification
   
 
 ^ := Equal contribution.
