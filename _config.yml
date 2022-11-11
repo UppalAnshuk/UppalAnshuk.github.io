@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiajin Li"
+title                    : "Anshuk Uppal"
 title_separator          : "-"
-name                     : &name "Jiajin Li"
-description              : &description "Postdoctoral Researcher at Stanford University"
+name                     : &name "Anshuk Uppal"
+description              : &description "PhD candidate at the Technical University of Denmark"
 url                      : https://gerrili1996.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gerrili1996/gerrili1996.github.io"
+repository               : "UppalAnshuk/uppalanshuk.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiajin Li"
+  name             : "Anshuk Uppal"
   avatar           : "photo.jpg"
-  bio              : "Postdoctoral Researcher at Stanford University"
-  location         : "Palo Alto, CA"
+  bio              : "PhD candidate at the Technical University of Denmark"
+  location         : "Copenhagen, Denmark"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=IwwqUhYAAAAJ&hl=en"
-  email            : "jiajinli@stanford.edu"
+  email            : "ansup@dtu.dk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gerrili1996"
+  github           : "UppalAnshuk"
   google_plus      :
   keybase          :
   instagram        :
