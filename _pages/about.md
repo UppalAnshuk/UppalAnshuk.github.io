@@ -8,41 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a postdoctoral researcher in [Department of Management Science and Engineering (MS&E)](https://msande.stanford.edu/)
-at [Stanford University](https://www.stanford.edu/), hosted by [Prof. Jose Blanchet](https://web.stanford.edu/~jblanche/).
-I am a member of the [Stanford Operations Research Group](https://or.stanford.edu/).
-
-Previously, I received my Ph.D. degree in [Department of Systems Engineering and Engineering Management](https://www.se.cuhk.edu.hk/)
-from the [Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html) in 2021, where I was fortunate to be advised 
-by [Prof. Anthony Man-Cho So](https://www1.se.cuhk.edu.hk/~manchoso/). From Aug 2020 to Mar 2021, I worked with [Prof. Justin Solomon](https://people.csail.mit.edu/jsolomon/)
-as a visiting Ph.D student in the [Geometric Data Processing Group](http://groups.csail.mit.edu/gdpgroup/index.html) at Massachusetts Institute of Technology (MIT). 
-Prior to joining CUHK, I obtained my bachelor degree in Statistics from Chongqing University.
+Hi, 
+I am a PhD student at the Technical University of Denmark at the Applied Mathematics and Computer Science Department. I am supervised by Jes Frellsen at DTU and Wouter Boomsma at DIKU(University of Copenhagen). My research is a part of the Centre for Basic Machine Learning Research in Life Sciences.
+Prior to starting this graduate program, I was a research associate at RBCDSAI, IIT Madras and before that I finished my integrated masters in ECE with a specialisation in signal processing and pattern recognition from IIIT Bangalore. During my masters, in 2019 I also spent some time in the Approximate Bayesian Inference team at RIKEN-AIP in Tokyo working under Emtiyaz Khan on scaling Bayesian natural gradient optimizers.
 
 
 # Research Interests 
-My research focuses on continuous optimization and its interplay with machine learning, operations research and  data science. 
-More specifically, I focus on the algorithmic and theoretical foundations for data-driven optimization problems.
+Currently I have broad interests in the field of probabilistic modelling. I am enthusiastic about problems in Bayesian deep learning, gaussian processes and application of generative modelling.
 
 
-> Feel free to drop me a message if you are interested in my research. (Remote) collaboration is also welcome!
+> Feel free to reach out!
 
 
 [comment]: <> (# Contact )
 
-[comment]: <> (Email: jiajinli [at] stanford.edu )
+> (Email: ansup [at] dtu.dk )
 
 # News
 
-- [2022.09] One paper accepted by NeurIPS 2022! 
-- [2022.08] Selected as one of the Rising Stars in EECS at UT Austin.
-- [2022.05] One paper accepted by ICML 2022! 
-- [2021.11] One paper accepted by SIAM Journal on Imaging Sciences!
-- [2021.09] Two papers accepted by NeurIPS 2021!
-- [2021.08] I passed my Ph.D. thesis defense and will join Stanford as a postdoc, working with [Prof. Jose Blanchet](https://web.stanford.edu/~jblanche/).
-- [2020.09] Two papers accepted by NeurIPS 2020!
-- [2020.08] I joined the [GDP@MIT](http://groups.csail.mit.edu/gdpgroup/index.html) as a visiting Ph.D student, working with [Prof. Justin Solomon](https://people.csail.mit.edu/jsolomon/).  
-- [2019.12] One paper accepted by ICLR 2020!
-- [2019.09] One paper accepted by NeurIPS 2019!
-- [2018.04] One paper accepted by IJCAI 2018!
+- [2022.11] Personal Website created
 
 <a href="https://clustrmaps.com/site/1bc1p" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=268&t=tt&d=ClGOXY2uKf0Io0DSAJkrBfZlEVYRsuP6Esld81tT5GE&co=ffffff&ct=808080" /></a>
