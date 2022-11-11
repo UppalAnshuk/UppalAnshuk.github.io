@@ -17,12 +17,10 @@ Prior to starting this graduate program, I was a research associate at [RBCDSAI,
 Currently I have broad interests in the field of probabilistic modelling. I am enthusiastic about problems in Bayesian deep learning, gaussian processes and application of generative modelling.
 
 
-> Feel free to reach out!
+> Feel free to reach out!(Email: ansup [at] dtu.dk )
 
 
 [comment]: <> (# Contact )
-
-> (Email: ansup [at] dtu.dk )
 
 # News
 
