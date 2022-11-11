@@ -14,7 +14,7 @@ Prior to starting this graduate program, I was a research associate at [RBCDSAI,
 
 
 # Research Interests 
-Currently I have broad interests in the field of probabilistic modelling. I am enthusiastic about problems in Bayesian deep learning, gaussian processes and application of generative modelling. Works that quantify/estimate uncertainty, model densities, or infer underlying structures/phenomena probabilistically intrigue me. 
+Currently I have broad interests in the field of probabilistic modelling. I am enthusiastic about problems in Bayesian deep learning, gaussian processes and application of generative modelling. Works that aim to quantify/estimate uncertainty, model densities, or infer underlying structures/phenomena probabilistically, intrigue me. 
 
 
 > Feel free to reach out!(Email: ansup [at] dtu.dk )
