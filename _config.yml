@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : bayesianinbeta
 facebook:
   username               :
   app_id                 :
@@ -86,7 +86,7 @@ author:
   location         : "Copenhagen, Denmark"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=IwwqUhYAAAAJ&hl=en"
+  googlescholar    : ""
   email            : "ansup@dtu.dk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
