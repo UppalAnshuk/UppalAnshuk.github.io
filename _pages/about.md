@@ -27,4 +27,5 @@ Currently I have broad interests in the field of probabilistic modelling. I am e
 
 - [2022.11] Personal Website created
 
-<a href="https://clustrmaps.com/site/1bc1p" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=268&t=tt&d=ClGOXY2uKf0Io0DSAJkrBfZlEVYRsuP6Esld81tT5GE&co=ffffff&ct=808080" /></a>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=rhuIdLn9vUpFRvGiO0jZm6wlIkrJngsYtbAm3XuBg4k"></script>
+
