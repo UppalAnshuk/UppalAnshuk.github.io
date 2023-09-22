@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 
-[Link to CV](https://drive.google.com/file/d/1b2QX-JP7I_B3DHoznL9EVCKFXVB2rm5P/view?usp=share_link)
+[Link to CV](https://uppalanshuk.github.io/files/REsume_or_CV_sep23.pdf)
 Updated October 2022
