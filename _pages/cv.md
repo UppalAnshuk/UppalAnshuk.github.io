@@ -9,4 +9,4 @@ redirect_from:
 
 
 [Link to CV](https://uppalanshuk.github.io/files/REsume_or_CV_sep23.pdf)
-Updated October 2022
+Updated September 2023
