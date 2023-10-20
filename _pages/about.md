@@ -28,4 +28,4 @@ Currently I have broad interests in the field of probabilistic modelling. I am e
 - [2022/11] Personal Website created
 - [2023/04] ICML 2023 submission rejected!
 
-<a href="https://clustrmaps.com/site/1brm2" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=rhuIdLn9vUpFRvGiO0jZm6wlIkrJngsYtbAm3XuBg4k" /></a>
+<a href='https://clustrmaps.com/site/1brm2'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=rhuIdLn9vUpFRvGiO0jZm6wlIkrJngsYtbAm3XuBg4k&co=4a5156'/></a>
