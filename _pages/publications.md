@@ -15,7 +15,7 @@ author_profile: true
 
 - Implicit Variational Inference for High-Dimensional Posteriors <br>
   **Anshuk Uppal**, Kristoffer Stensbo-Smidt, Wouter K Boomsma, and Jes Frellsen. <br>
-  NeurIPS 2023 <span style="color: red;">(Spotlight)</span>, [<span style="color: orange;">arxiv</span>](https://arxiv.org/abs/2310.06643), [code is coming soon!]
+  NeurIPS 2023 <span style="color: red;">(Spotlight)</span>, [arxiv](https://arxiv.org/abs/2310.06643), [code is coming soon!]
   
 
-* := Equal contribution.
+$^*$ := Equal contribution.
