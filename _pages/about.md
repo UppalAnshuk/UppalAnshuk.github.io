@@ -17,6 +17,7 @@ Prior to starting this graduate program, I was a research associate at [RBCDSAI,
 # Research Interests 
 Currently I have broad interests in the field of probabilistic modelling. I am enthusiastic about problems in Bayesian deep learning, gaussian processes and applications of generative modelling. Works that aim to quantify/estimate uncertainty, model densities, or infer underlying structures/phenomena probabilistically, intrigue me. 
 
+**I am looking for internships opportunities starting in 2024. I am interested in theory of generative modelling including geometrical aspects, uncertainty quantification, and probabilistic modelling for sciences. I am available for 4-6 months.**
 
 > Feel free to reach out!(Email: ansup [at] dtu.dk )
 
@@ -27,5 +28,6 @@ Currently I have broad interests in the field of probabilistic modelling. I am e
 
 - [2022/11] Personal Website created
 - [2023/04] ICML 2023 submission rejected!
+- [2023/09] NeurIPS submission accepted! My work on scaling implicit variational approximations has been accepted as a Spotlight!
 
 <a href='https://clustrmaps.com/site/1brm2'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=rhuIdLn9vUpFRvGiO0jZm6wlIkrJngsYtbAm3XuBg4k&co=4a5156'/></a>
