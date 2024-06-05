@@ -13,7 +13,7 @@ I am a third-year PhD student at the Technical University of Denmark at the Appl
 
 Prior to starting this graduate program, I was a research associate at [RBCDSAI, IIT Madras](https://rbcdsai.iitm.ac.in/) and before that I finished my integrated masters in ECE with a specialisation in signal processing and pattern recognition from [IIIT Bangalore](https://iiitb.ac.in/). During my masters, in 2019 I also spent some time in the Approximate Bayesian Inference team at [RIKEN-AIP](https://www.riken.jp/en/research/labs/aip/) in Tokyo working under [Emtiyaz Khan](https://emtiyaz.github.io/) on scaling Bayesian natural gradient optimizers.
 
-I will be interning with the DGM team at [SonyAI](https://ai.sony/) in Tokyo, Japan this summer (from June) and will work on theory of deep generative models. In October of 2024 I will head to NYC to collaborate with [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/) and [Mark Goldstein](https://marikgoldstein.github.io/) at NYU. I am looking forward on spending 6 months here as part of a long research stay.
+I will be interning with the DGM team at [SonyAI](https://ai.sony/) in Tokyo, Japan this summer (from June) and will work on theory of deep generative models. In October of 2024, I will head to NYC to collaborate with [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/) and [Mark Goldstein](https://marikgoldstein.github.io/) at NYU. I am excited about spending 6 months there as part of an extended research stay.
 
 # Research Interests 
 
