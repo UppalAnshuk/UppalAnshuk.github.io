@@ -61,12 +61,13 @@ $body-color                 : #fff;
 $border-color               : $lighter-gray;
 $background-color: #141010 !default;
 $text-color: #fff6fb !default;
-$primary-color: #f21368 !default;
+
 $border-color: mix(#fff, $background-color, 20%) !default;
 $code-background-color: mix(#000, $background-color, 15%) !default;
 $code-background-color-dark: mix(#000, $background-color, 20%) !default;
 
 // $primary-color              : #7a8288;
+$primary-color                 : #f21368 !default;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
