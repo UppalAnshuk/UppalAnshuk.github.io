@@ -9,9 +9,15 @@ redirect_from:
 ---
 
 Hi, 
-I am a third-year PhD student at the Technical University of Denmark at the Applied Mathematics and Computer Science Department. I am supervised by [Jes Frellsen](https://frellsen.org/) at DTU and [Wouter Boomsma](https://ku-bioml.github.io/people/#wouter) at DIKU(University of Copenhagen). My research is a part of the [Centre for Basic Machine Learning Research in Life Sciences](https://www.mlls.dk/).
+I am a fourth-year PhD student at the Technical University of Denmark at the Applied Mathematics and Computer Science Department. I am supervised by [Jes Frellsen](https://frellsen.org/) at DTU and [Wouter Boomsma](https://ku-bioml.github.io/people/#wouter) at DIKU(University of Copenhagen). My research is a part of the [Centre for Basic Machine Learning Research in Life Sciences](https://www.mlls.dk/).
+
+<details>
+<summary>Click for a longer bio.</summary>
 
 Prior to starting this graduate program, I was a research associate at [RBCDSAI, IIT Madras](https://rbcdsai.iitm.ac.in/) and before that I finished my integrated masters in ECE with a specialisation in signal processing and pattern recognition from [IIIT Bangalore](https://iiitb.ac.in/). During my masters, in 2019 I also spent some time in the Approximate Bayesian Inference team at [RIKEN-AIP](https://www.riken.jp/en/research/labs/aip/) in Tokyo working under [Emtiyaz Khan](https://emtiyaz.github.io/) on scaling Bayesian natural gradient optimizers.
+
+</details>
+
 
 2024 update: I will be interning with the DGM team at [SonyAI](https://ai.sony/) in Tokyo, Japan this summer (from June) and will work on theory of deep generative models. In October of 2024, I will head to NYC to collaborate with [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/) and [Mark Goldstein](https://marikgoldstein.github.io/) at NYU. I am excited about spending 6 months there as part of an extended research stay.
 
