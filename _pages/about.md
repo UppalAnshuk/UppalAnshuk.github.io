@@ -34,14 +34,20 @@ Works that aim to quantify/estimate uncertainty, model densities, or infer under
 [comment]: <> (# Contact )
 
 # News
+- [2024/3] I have been offered research internships!
+- [2024/5] I was at ICLR in Vienna, beautiful city with a lot of history, amazing conference with many good orals, the VAE paper got the test of time award!
+- [2024/5] Failed to submit to NeurIPS.
+- [2024/6] I am heading to Tokyo, will be working with the DGM team at SonyAI for a few months!
+- [2024/10] I have made it to NYC! 
 
+<details>
+<summary>Old updates.</summary>
+  
 - [2022/11] Personal Website created.
 - [2023/04] ICML 2023 submission rejected!
 - [2023/09] NeurIPS submission accepted! My work on scaling implicit variational approximations has been accepted as a Spotlight!
 - [2023/12] Presented my work at NeurIPS 2023 in New Orleans and enjoyed some exquisite live jazz.
-- [2024/3] I have been offered research internships!
-- [2024/5] I was at ICLR in Vienna, beautiful city with a lot of history, amazing conference with many good orals, the VAE paper got the test of time award!
-- [2024/5] Failed to submit to NeurIPS.
-- [2024/6] I am heading to Tokyo, will be working with the DGM team at SonyAI for a few months! 
+
+</details>
 
 <a href='https://clustrmaps.com/site/1brm2'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=rhuIdLn9vUpFRvGiO0jZm6wlIkrJngsYtbAm3XuBg4k&co=4a5156'/></a>
