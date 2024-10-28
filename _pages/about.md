@@ -23,6 +23,8 @@ Prior to starting this graduate program, I was a research associate at <a href="
 </details>
 
 
+
+
 # Research Interests 
 
 I have broad interests in the field of probabilistic modelling. I am enthusiastic about problems in Bayesian deep learning related to uncertainty quantification and variational inference. I enjoy dabbling in generative modelling, structured models and their scientific applications. I usually like pondering about generalisation, distribution shifts and identifiability in deep probabilistic models. I wish I was better at differential geometry, measure theory and high-dimensional sampling.
@@ -44,11 +46,13 @@ Works that aim to quantify/estimate uncertainty, model densities, or infer under
 
 <details>
 <summary>Old updates.</summary>
-  
-- [2022/11] Personal Website created.
-- [2023/04] ICML 2023 submission rejected!
-- [2023/09] NeurIPS submission accepted! My work on scaling implicit variational approximations has been accepted as a Spotlight!
-- [2023/12] Presented my work at NeurIPS 2023 in New Orleans and enjoyed some exquisite live jazz.
+
+<ul>
+  <li>[2022/11] Personal Website created.</li>
+  <li>[2023/04] ICML 2023 submission rejected!</li>
+  <li>[2023/09] NeurIPS submission accepted! My work on scaling implicit variational approximations has been accepted as a Spotlight!</li>
+  <li>[2023/12] Presented my work at NeurIPS 2023 in New Orleans and enjoyed some exquisite live jazz.</li>
+</ul>
 
 </details>
 
