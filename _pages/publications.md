@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+Please check scholar for an up to date list.
+
 ## Preprints
   - Coming soon!
     
