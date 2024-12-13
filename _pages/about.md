@@ -15,6 +15,8 @@ I am a fourth-year PhD student at the Technical University of Denmark at the App
 
 2024 update: I will be interning with the DGM team at [SonyAI](https://ai.sony/) in Tokyo, Japan this summer (from June) and will work on theory of deep generative models. In October of 2024, I will head to NYC to collaborate with [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/) and [Mark Goldstein](https://marikgoldstein.github.io/) at NYU. I am excited about spending 6 months there as part of an extended research stay.
 
+I am looking for internship roles staring in March-April 2025 for four to six months. Please reach out if interested.
+
 <details>
 <summary>Click for a longer bio.</summary>
 
@@ -27,9 +29,10 @@ Prior to starting this graduate program, I was a research associate at <a href="
 
 # Research Interests 
 
-I have broad interests in the field of probabilistic modelling. I am enthusiastic about problems in Bayesian deep learning related to uncertainty quantification and variational inference. I enjoy dabbling in generative modelling, structured models and their scientific applications. I usually like pondering about generalisation, distribution shifts and identifiability in deep probabilistic models. I wish I was better at differential geometry, measure theory and high-dimensional sampling.
+Lately, I have been focusing on interesting problems in generative modelling. Specifcally, I like to think about current challenges with Diffusion Models, like non-linear inference processes, simplifying guidance in pre-trained models, and accelerating sampling. I also enjoy dabbling in structured modelling and scientific applications of diffusion models. 
 
-Works that aim to quantify/estimate uncertainty, model densities, or infer underlying structures/phenomena probabilistically, intrigue me. 
+I have broad interests in the field of probabilistic modelling. I am enthusiastic about problems in Bayesian deep learning related to uncertainty quantification and variational inference. I usually like pondering about generalisation, distribution shifts and identifiability in deep probabilistic models. I wish I was better at differential geometry, measure theory and high-dimensional sampling. Works that aim to quantify/estimate uncertainty, model densities, or infer underlying structures/phenomena probabilistically, intrigue me. 
+
 
 
 > Feel free to reach out!(Email: ansup [at] dtu.dk )
@@ -38,11 +41,10 @@ Works that aim to quantify/estimate uncertainty, model densities, or infer under
 [comment]: <> (# Contact )
 
 # News
-- [2024/3] I have been offered research internships!
-- [2024/5] I was at ICLR in Vienna, beautiful city with a lot of history, amazing conference with many good orals, the VAE paper got the test of time award!
-- [2024/5] Failed to submit to NeurIPS.
 - [2024/6] I am heading to Tokyo, will be working with the DGM team at SonyAI for a few months!
-- [2024/10] I have made it to NYC! 
+- [2024/10] I have made it to NYC!
+- [2024/11] Submitted to CVPR
+- [2024/12] I am looking for research interships!
 
 <details>
 <summary>Old updates.</summary>
@@ -52,6 +54,9 @@ Works that aim to quantify/estimate uncertainty, model densities, or infer under
   <li>[2023/04] ICML 2023 submission rejected!</li>
   <li>[2023/09] NeurIPS submission accepted! My work on scaling implicit variational approximations has been accepted as a Spotlight!</li>
   <li>[2023/12] Presented my work at NeurIPS 2023 in New Orleans and enjoyed some exquisite live jazz.</li>
+  <li>[2024/3] I have been offered research internships!</li>
+  <li>[2024/5] I was at ICLR in Vienna, beautiful city with a lot of history, amazing conference with many good orals, the VAE paper got the test of time award!</li>
+  <li>[2024/5] Failed to submit to NeurIPS.</li>
 </ul>
 
 </details>
