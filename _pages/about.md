@@ -12,7 +12,6 @@ Hi,
 I am a fourth-year PhD student at the Technical University of Denmark at the Applied Mathematics and Computer Science Department. I am supervised by [Jes Frellsen](https://frellsen.org/) at DTU and [Wouter Boomsma](https://ku-bioml.github.io/people/#wouter) at DIKU(University of Copenhagen). My research is a part of the [Centre for Basic Machine Learning Research in Life Sciences](https://www.mlls.dk/).
 
 
-
 2024 update: I will be interning with the DGM team at [SonyAI](https://ai.sony/) in Tokyo, Japan this summer (from June) and will work on theory of deep generative models. In October of 2024, I will head to NYC to collaborate with [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/) and [Mark Goldstein](https://marikgoldstein.github.io/) at NYU. I am excited about spending 6 months there as part of an extended research stay.
 
 I am looking for internship roles staring in March-April 2025 for four to six months. Please reach out if interested.
@@ -25,13 +24,11 @@ Prior to starting this graduate program, I was a research associate at <a href="
 </details>
 
 
-
-
 # Research Interests 
 
-Lately, I have been focusing on interesting problems in generative modelling. Specifcally, I like to think about current challenges with Diffusion Models, like non-linear inference processes, simplifying guidance in pre-trained models, and accelerating sampling. I also enjoy dabbling in structured modelling and scientific applications of diffusion models. 
+Lately, I have been focusing on interesting problems in generative modelling. Specifically, I like to think about current challenges with Diffusion Models, like non-linear inference processes, simplifying guidance in pre-trained models, accelerating sampling and modelling discrete data. I also enjoy dabbling in structured modelling and scientific applications of diffusion models. 
 
-I have broad interests in the field of probabilistic modelling. I am enthusiastic about problems in Bayesian deep learning related to uncertainty quantification and variational inference. I usually like pondering about generalisation, distribution shifts and identifiability in deep probabilistic models. I wish I was better at differential geometry, measure theory and high-dimensional sampling. Works that aim to quantify/estimate uncertainty, model densities, or infer underlying structures/phenomena probabilistically, intrigue me. 
+I have broad interests in the field of probabilistic modelling. I am enthusiastic about problems in Bayesian deep learning related to uncertainty quantification, variational inference and high-dimensional sampling. More generally, I like pondering about generalisation, distribution shifts and identifiability in deep probabilistic models. I wish I was better at differential geometry, measure theory and high-dimensional sampling. Works that aim to quantify or estimate uncertainty, model densities, or infer underlying structures/phenomena probabilistically, intrigue me. 
 
 
 
